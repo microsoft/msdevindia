@@ -1,3 +1,22 @@
+# Developer Community Resources
+
+Find more about the monthly sessions, speakers, slides and videos from the India Developer Communities. 
+
+| Theme | Topic | Speakers | Resources | Session Video |
+|---|---|---|---|---|
+|  Data | Data Security on Cloud  |  TBA | [Azure Security Fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)  |   |
+|  Data | COVID-19 forecast App perdiction model  | Vivek Raja  |   |   |
+|  Data | Cloud Skew Architechture (Cosmos DB & SQL)  | Mithun Shanbhag  |   |   |
+
+
+# Additional Resources ✔️
+
+- **[Azure Account](https://azure.microsoft.com/?WT.mc_id=-github-arsaha)**
+- **[Visual Studio Code](https://code.visualstudio.com/)**
+
+> **Azure For Students Account**
+*If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=-github-arsaha)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the [link](https://azure.microsoft.com/free/students/?WT.mc_id=-github-arsaha).
+
 
 # Contributing
 
