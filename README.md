@@ -4,9 +4,9 @@ Find more about the monthly sessions, speakers, slides and videos from the India
 
 | Theme | Topic | Speakers | Resources | Session Video |
 |---|---|---|---|---|
-|  Data | Data Security on Cloud  |  TBA | [Azure Security Fundamentals](https://docs.microsoft.com/azure/security/fundamentals/?WT.mc_id=-github-arsaha)  |   |
-|  Data | COVID-19 forecast app perdiction model  | Vivek Raja  |   |   |
-|  Data | Cloud Skew Architechture (Cosmos DB & SQL)  | Mithun Shanbhag  |   |   |
+|  Data | Data Security on Cloud  |  TBA | [Azure Security Fundamentals](https://docs.microsoft.com/azure/security/fundamentals/?WT.mc_id=-github-arsaha)  |  - |
+|  Data | COVID-19 forecast app perdiction model  | Vivek Raja  | [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=-github-arsaha), [MLOps on Azure](https://github.com/microsoft/MLOps) | -  |
+|  Data | Cloud Skew Architechture (Cosmos DB & SQL)  | Mithun Shanbhag  | -  | -  |
 
 
 # Additional Resources ✔️
