@@ -8,8 +8,11 @@ Find more about the monthly sessions, speakers, slides and videos from the India
 |  Data | COVID-19 forecast app perdiction model  | Vivek Raja  | [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=-github-arsaha), [MLOps on Azure](https://github.com/microsoft/MLOps) | -  |
 |  Data | Cloud Skew Architechture (Cosmos DB & SQL)  | Mithun Shanbhag  | -  | -  |
 
+# [LearnTV (preview)](https://docs.microsoft.com/learn/tv/?WT.mc_id=-github-arsaha)
 
-# Additional Resources ✔️
+Learn how to build solutions and use Microsoft products from the experts that built them! [Learn TV](https://docs.microsoft.com/learn/tv/?WT.mc_id=-github-arsaha) is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft. 
+
+# Additional Resources 
 
 - **[Azure Account](https://azure.microsoft.com/?WT.mc_id=-github-arsaha)**
 - **[Visual Studio Code](https://code.visualstudio.com/)**
