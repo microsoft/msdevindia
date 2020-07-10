@@ -12,6 +12,10 @@ Find more about the monthly sessions, speakers, slides and videos from the India
 
 Learn how to build solutions and use Microsoft products from the experts that built them! [Learn TV](https://docs.microsoft.com/learn/tv/?WT.mc_id=-github-arsaha) is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft. 
 
+# Microsoft.Source Newsletter
+
+Sign up for the [Microsoft. Source Newsletter](https://aka.ms/m/newsletter) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
+
 # Additional Resources 
 
 - **[Azure Account](https://azure.microsoft.com/?WT.mc_id=-github-arsaha)**
