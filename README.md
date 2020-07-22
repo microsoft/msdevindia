@@ -4,9 +4,9 @@ Find more about the monthly sessions, speakers, slides and videos from the India
 
 | Theme | Topic | Speakers | Resources | Session Video |
 |---|---|---|---|---|
-|  Data | [Data/IoT Security on Cloud - #SecuritySpeak](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271746745/)  |  Smriti Kumar, Sujatha Yakasiri, Pragati Rai, Satyavathi Divadari (Satya) | [Azure Security Fundamentals](https://docs.microsoft.com/azure/security/fundamentals/?WT.mc_id=-github-arsaha), [Azure IoT Security](https://azure.microsoft.com/overview/iot/security/?WT.mc_id=-github-arsaha) |  [Watch Now](https://www.youtube.com/watch?v=WldK9FKTjUU) |
-|  Data | [Designing & deploying COVID-19 forecast app using Machine Learning techniques](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271746623/) | Vivek Raja  | [Create Machine Learning models](https://docs.microsoft.com/learn/paths/create-machine-learn-models/?WT.mc_id=-github-arsaha), [Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=-github-arsaha), [MLOps on Azure](https://github.com/microsoft/MLOps) | -  | 
-|  Data | [Data Stores on Azure - #AzureHappyHours](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271748075/)  | Mithun Shanbhag  | [Azure SQL](https://docs.microsoft.com/azure/azure-sql/?WT.mc_id=-github-arsaha), [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/introduction?WT.mc_id=-github-arsaha)  | -  |
+|  Data | [Data/IoT Security on Cloud - #SecuritySpeak](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271746745/)  |  Smriti Kumar, Sujatha Yakasiri, Pragati Rai, Satyavathi Divadari (Satya) | [Azure Security Fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445393&ocid=AID3018158_QSG_EML_445393), [Azure IoT Security](https://azure.microsoft.com/en-us/overview/iot/security/?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445394&ocid=AID3018158_QSG_EML_445394) |  [Watch Now](https://www.youtube.com/watch?v=WldK9FKTjUU) |
+|  Data | [Designing & deploying COVID-19 forecast app using Machine Learning techniques](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271746623/) | Vivek Raja  | [Create Machine Learning models](https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445395&ocid=AID3018158_QSG_EML_445395), [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445396&ocid=AID3018158_QSG_EML_445396), [MLOps on Azure](https://github.com/microsoft/MLOps) | -  | 
+|  Data | [Data Stores on Azure - #AzureHappyHours](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271748075/)  | Mithun Shanbhag  | [Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445397&ocid=AID3018158_QSG_EML_445397), [Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445398&ocid=AID3018158_QSG_EML_445398)  | -  |
 
 # [LearnTV (preview)](https://docs.microsoft.com/learn/tv/?WT.mc_id=-github-arsaha)
 
@@ -14,15 +14,15 @@ Learn how to build solutions and use Microsoft products from the experts that bu
 
 # Microsoft.Source Newsletter
 
-Sign up for the [Microsoft. Source Newsletter](https://aka.ms/m/newsletter) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
+Sign up for the [Microsoft. Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
 
 # Additional Resources 
 
-- **[Azure Account](https://azure.microsoft.com/?WT.mc_id=-github-arsaha)**
+- **[Azure Account](https://azure.microsoft.com/en-us/?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445401&ocid=AID3018158_QSG_EML_445401)**
 - **[Visual Studio Code](https://code.visualstudio.com/)**
 
 > **Azure For Students Account**
-*If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=-github-arsaha)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the [link](https://azure.microsoft.com/free/students/?WT.mc_id=-github-arsaha).
+*If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=-github-arsaha)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the [link](https://azure.microsoft.com/en-us/free/students/?WT.mc_id=-github-arsaha&wt.mc_id=AID3018158_QSG_EML_445402&ocid=AID3018158_QSG_EML_445402).
 
 
 # Contributing
