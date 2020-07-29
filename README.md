@@ -12,6 +12,17 @@ Find more about the monthly sessions, speakers, slides and videos from the India
 
 Learn how to build solutions and use Microsoft products from the experts that built them! [Learn TV](https://docs.microsoft.com/learn/tv/?WT.mc_id=-github-arsaha) is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft. 
 
+# Know the Microsoft Developer Communities 
+
+## Microsoft MVP 
+Microsoft Most Valuable Professionals, or MVPs, are technology experts who passionately share their knowledge with the community. They are always on the "bleeding edge" and have an unstoppable urge to get their hands on new, exciting technologies. They have very deep knowledge of Microsoft products and services, while also being able to bring together diverse platforms, products and solutions, to solve real world problems. MVPs make up a global community of over 4,000 technical experts and community leaders across 90 countries/regions and are driven by their passion, community spirit, and quest for knowledge. Above all and in addition to their amazing technical abilities, MVPs are always willing to help others - that's what sets them apart. Know more about the [Microsoft MVP Program](https://mvp.microsoft.com/en-us/).  
+
+## Microsoft Regional Director
+The Regional Director Program provides Microsoft leaders with the customer insights and real-world voices it needs to continue empowering developers and IT professionals with the world's most innovative and impactful tools, services, and solutions. Know more about the [Microsoft RD Program](https://rd.microsoft.com/en-us/)
+
+## Microsoft Learn Student Ambassador
+Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. You might find yourself organizing a virtual hackathon to solve the world’s toughest problems or helping fellow students build their coding skills with Microsoft Learn—it’s all up to you. Know more about the [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/en-us)
+
 # Microsoft.Source Newsletter
 
 Sign up for the [Microsoft. Source Newsletter](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018158_QSG_EML_NLTR_445400&ocid=AID3018158_QSG_EML_NLTR_445400) to receive a regular digest of relevant technical content, events, training, sample code, and workshops.
